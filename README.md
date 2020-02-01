@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![logo](https://github.com/flyingblackhat/CopyngoIssues/blob/master/CopynGo%20icon%20128.png)<br/>Copy n Go](https://www.flyingblackhat.com/copyngo)
+# [![logo](https://github.com/flyingblackhat/CopyngoIssues/blob/master/CopynGo%20icon%20256.png)<br/>Copy n Go](https://www.flyingblackhat.com/copyngo)
 
 ### Clipboard manager for Mac
 
